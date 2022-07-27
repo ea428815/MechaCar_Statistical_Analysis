@@ -52,6 +52,3 @@ Lot3
 t.test(Lot1$PSI, mu = 1500)
 t.test(Lot2$PSI, mu = 1500)
 t.test(Lot3$PSI, mu = 1500)
-
-### Deliverable 
-
